@@ -1,6 +1,9 @@
 # Projeto de Aplicativo de Placar
 
 Este projeto é um aplicativo Android simples que permite acompanhar a pontuação de dois jogadores. O aplicativo fornece funcionalidade para aumentar a pontuação de cada jogador, reiniciar o placar e encerrar a partida.
+<p align="center">
+  <img src="https://github.com/IgorKoppen/PlacarApp/blob/main/screenshot/Screenshot_20241011_164205.png" alt="Captura de Tela do App" width="300"/>
+</p>
 
 ## Funcionalidades
 
